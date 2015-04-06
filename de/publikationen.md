@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Veröffentlichungen
 permalink: /publikationen/de/
 name: publikationen
 layout: page
