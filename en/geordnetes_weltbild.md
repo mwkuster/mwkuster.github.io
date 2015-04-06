@@ -21,9 +21,9 @@ Related content:
 
 
 1. Geordnetes Weltbild:  <a href="http://www.degruyter.com/viewbooktoc/product/158657">Inhaltsverzeichnis</a>
-2.  Bestellen Sie das Geordnete Weltbild im <a href="http://www.degruyter.com/view/product/158657">Online Shop von de Gruyter</a>
+2. Bestellen Sie das Geordnete Weltbild im <a href="http://www.degruyter.com/view/product/158657">Online Shop von de Gruyter</a>
 
-Online verfügbare Rezensionen:
+Reviews available online:
 
 1. Rezension in <a href="http://zs.thulb.uni-jena.de/servlets/MCRFileNodeServlet/jportal_derivate_00115721/j08-h2-rez-1.pdf">Zeitschrift für Bibliothekswesen</a>, 55 (2008), 2
 3. Rezension in <a href="http://www.b-i-t-online.de/heft/2007-03-inh.htm">B. I. T. online</a>
