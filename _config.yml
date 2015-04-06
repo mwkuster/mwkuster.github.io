@@ -1,0 +1,16 @@
+# Site settings -*- mode: markdown; code: utf-8 -*-
+gems:
+  - jekyll-redirect-from
+  
+title: Marc Wilhelm Küster's homepage
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.budabe.eu" # the base hostname & protocol for your site
+twitter_username: mwkuster
+github_username:  mwkuster
+highlighter: rouge
+
+
+# Build settings
+markdown: kramdown
