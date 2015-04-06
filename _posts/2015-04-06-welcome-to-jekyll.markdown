@@ -1,4 +1,4 @@
---- #-*- mode: markdown -*-
+--- 
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-06 16:18:11
