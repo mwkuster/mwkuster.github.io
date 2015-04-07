@@ -18,7 +18,8 @@ lang: en
 - 2001-2005: Co-founder and co-director of the XML service provider Saphor GmbH
 - In parallel dissertation on the tradition of alphabetic ordering from cuneiform to computers ("Geordnetes Weltbild") at the Faculty of Modern Philology at the University Tübingen
 - Since 2005: Professor for Web Services and XML Technologies at the Faculty for Computer Science and Telecommunications at the University of Applied Sciences Worms
-- Since 2008: On leave for a project in the Office des Publications of the European Union (central content and metadata management)
+- 2008-2014: On leave for a project in the Office des Publications of the European Union (central content and metadata management)
+- Since 2014: Head of sector for the Office des Publications of the European Union (central content and metadata management)
 - Current research interests include:
   - In computer science:
     - Web Services, especially heterogeneous distributed systems (digital ecosystems)
