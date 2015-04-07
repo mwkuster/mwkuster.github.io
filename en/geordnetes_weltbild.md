@@ -1,6 +1,8 @@
 ---
 title: Geordnetes Weltbild
 permalink: /grammatologie/geordnetes_weltbild/en/
+redirect_from: 
+  - /grammatologie/geordnetes_weltbild/
 name: geordnetesweltbild
 layout: page
 order: d

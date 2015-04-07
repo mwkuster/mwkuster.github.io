@@ -1,6 +1,8 @@
 ---
 title: Grammatology
 permalink: /grammatologie/en/
+redirect_from: 
+  - /grammatologie/
 name: grammatologie
 layout: page
 order: c

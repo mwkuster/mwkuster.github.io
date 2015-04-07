@@ -2,6 +2,8 @@
 title: Home
 layout: page
 permalink: /home/en/
+redirect_from: 
+  - /home/
 name: home
 order: a
 lang: en

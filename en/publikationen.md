@@ -1,6 +1,8 @@
 ---
 title: Publications
 permalink: /publikationen/en/
+redirect_from: 
+  - /publikationen/
 name: publikationen
 layout: page
 order: e

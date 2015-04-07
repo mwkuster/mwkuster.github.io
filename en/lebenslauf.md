@@ -1,6 +1,8 @@
 ---
 title: CV
 permalink: /lebenslauf/en/
+redirect_from: 
+  - /lebenslauf/
 name: lebenslauf
 layout: page
 order: b

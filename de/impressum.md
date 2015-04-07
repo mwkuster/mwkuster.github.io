@@ -1,10 +1,10 @@
 ---
 title: Impressum
 layout: page
-permalink: /impressum/en/
+permalink: /impressum/de/
 name: impressum
 order: z
-lang: en
+lang: de
 ---
 
 Das deutsche Gesetz hätte gerne die Publikation eines Impressums nach § 5 TMG:

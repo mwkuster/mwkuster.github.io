@@ -1,10 +1,12 @@
 ---
 title: Impressum
 layout: page
-permalink: /impressum/de/
+permalink: /impressum/en/
+redirect_from: 
+  - /impressum/
 name: impressum
 order: z
-lang: de
+lang: en
 ---
 
 German law unfortunately requires the publication of an impressum according to § 5 TMG.
