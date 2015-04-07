@@ -17,7 +17,8 @@ lang: de
 - 2001-2005: Mitgründer und einer der beiden Geschäftsführer des XML-Dienstleisters Saphor GmbH
 - Zeitgleich Promotion über die Tradition des alphabetischen Sortierens von der Keilschrift bis zur EDV ("Geordnetes Weltbild") an der Neuphilologischen Fakultät der Universität Tübingen 
 - 2005: Berufung zum Professor für Web Services und XML-Technologien an die Fakultät für Informatik und Telekommunikation der FH Worms
-- 2008: Beurlaubung für Projektarbeit im Office des Publications der Europäischen Union (Konzeption des Systems zur zentralen Daten- und Metadatenverwaltung u.a. für die europäische Gesetzgebung)
+- 2008-2014: Beurlaubung für Projektarbeit im Office des Publications der Europäischen Union (Konzeption des Systems zur zentralen Daten- und Metadatenverwaltung u.a. für die europäische Gesetzgebung)
+- Seit 2014: Sektionsleiter am Office des Publications der Europäischen Union
 - Derzeitige Forschungsinteressen sind: 
   - In der Informatik:
     - Web Services, insbesondere heterogene verteilte Systeme (digital ecosystems)

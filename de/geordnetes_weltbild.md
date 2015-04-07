@@ -12,7 +12,7 @@ lang: de
 
 Marc Wilhelm Küster: _Geordnetes Weltbild. Die Tradition des alphabetischen Sortierens von der Keilschrift bis zur EDV. Eine Kulturgeschichte._ Niemeyer: Tübingen, 2006 (actually January 2007) 740 pages. 58 figures. EUR 74.– / SFr 127.–, ISBN 13: 978-3-484-10899-8, ISBN 10: 3-484-10899-1
 
-Ein Zufall vielleicht, aber ein glücklicher: Zeitgleich zur Eröffnung des Jahres der Geisteswissenschaften in Berlin unter dem Titel ABC der Menschheit ist auch das Buch Geordnetes Weltbild. Die Tradition des alphabetischen Sortierens von der Keilschrift bis zur EDV im Max-Niemeyer-Verlag erschienen. In einem großen Bogen von sumerischen Keilschriftlisten bis zu modernen Codetabellen entwickelt das Werk die Geschichte unseres Alphabets im Spiegel der Buchstabenabfolgen nebst ihrer vielfältigen Nutzungen und entwirft so eine umfassende Kulturgeschichte des elementarsten Wissens unserer Literalität, des ABCs – denn was scheint so selbstverständlich zu sein wie die Abfolge des A, B, C usw.? Wie aber und wieso bekam jeder Buchstabe seine Position in dieser Kette und wie wurde diese Reihenfolge über die Jahrtausende hinweg immer wieder neu verwendet und interpretiert?
+Ein Zufall vielleicht, aber ein glücklicher: Zeitgleich zur Eröffnung des Jahres der Geisteswissenschaften in Berlin unter dem Titel ABC der Menschheit ist auch das Buch _Geordnetes Weltbild. Die Tradition des alphabetischen Sortierens von der Keilschrift bis zur EDV_ im Max-Niemeyer-Verlag erschienen. In einem großen Bogen von sumerischen Keilschriftlisten bis zu modernen Codetabellen entwickelt das Werk die Geschichte unseres Alphabets im Spiegel der Buchstabenabfolgen nebst ihrer vielfältigen Nutzungen und entwirft so eine umfassende Kulturgeschichte des elementarsten Wissens unserer Literalität, des ABCs – denn was scheint so selbstverständlich zu sein wie die Abfolge des A, B, C usw.? Wie aber und wieso bekam jeder Buchstabe seine Position in dieser Kette und wie wurde diese Reihenfolge über die Jahrtausende hinweg immer wieder neu verwendet und interpretiert?
 
 Entstanden ist ein schriftwissenschaftliches Werk mit vielen Einsichten für Linguistik, Semiotik und Kulturwissenschaft – gleichsam die Geschichte vom "ABC Europas", ein "fulminantes, spannendes, ungemein gelehrtes Buch" (Zeitschrift für Bibliothekswesen, 2008, Heft 2), "an important contribution to the cultural history of humankind" (International Review of Biblical Studies, 53 (2006/2007).
 
@@ -51,7 +51,7 @@ In den Konversationslexika des 19. und 20. Jahrhunderts wandelt sich das Model
 Weitere Informationen:
 
 1. Geordnetes Weltbild:  <a href="http://www.degruyter.com/viewbooktoc/product/158657">Inhaltsverzeichnis</a>
-2.  Bestellen Sie das Geordnete Weltbild im <a href="http://www.degruyter.com/view/product/158657">Online Shop von de Gruyter</a>
+2.  Bestellen Sie das _Geordnete Weltbild_ im <a href="http://www.degruyter.com/view/product/158657">Online Shop von de Gruyter</a>
 
 Online verfügbare Rezensionen:
 

@@ -7,7 +7,7 @@ order: z
 lang: de
 ---
 
-Das deutsche Gesetz hätte gerne die Publikation eines Impressums nach § 5 TMG:
+Das deutsche Gesetz wünscht die Publikation eines Impressums nach § 5 TMG:
 
 Marc Wilhelm Küster
 Sprengelweg 4
