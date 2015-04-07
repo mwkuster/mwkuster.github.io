@@ -5,11 +5,9 @@ redirect_from:
   - /research/
 name: research
 layout: page
-order: f
+order: da
 lang: en
 ---
-
-# Research
 
 Core topics of my current reserach are Web Services, distributed systems / digital ecosystems and XML-related technologies. This includes data modelling in XML, Grid technologies, digital ecosystems and XML-based eBusiness-/eGovernment standards.
 
@@ -51,10 +49,10 @@ You can find the current list of research projects under [http://www.rlp-forschu
 
 # Keynotes and invited talks (selection)
 
-- CIPA, VAST, EG Joint Conference in Cyprus 2006 on ``Culture, Standards, Semiotics and a Bit More'' (Keynote)
-- IEEE DEST 2006 inaugural Digital Ecosystems Conference in Cairns on ``TextGrid as an Digital Ecosystem''
-- Topic Maps Research and Applications on ``Topic Maps and Semantic Registries'' (2007 Keynote zusammen mit Graham Moore)
-- Berliner XML Tage on ``Semantic Registries''
+- CIPA, VAST, EG Joint Conference in Cyprus 2006 on "Culture, Standards, Semiotics and a Bit More" (Keynote)
+- IEEE DEST 2006 inaugural Digital Ecosystems Conference in Cairns on "TextGrid as an Digital Ecosystem"
+- Topic Maps Research and Applications on "Topic Maps and Semantic Registries" (2007 keynote together with Graham Moore)
+- Berliner XML Tage on "Semantic Registries"
 - Initiative 21 2007 (in collaboration with the BMWi and BMI) on eGovernment standards from a European view
 - ePsiPlus Conference London 2008 on the CEN/ISSS eGovernment Focus Group
-- International Conference on Document Analysis and Recognition (ICDAR) 2011 on ``The Four and a Half Challenges of Humanities Data''
+- International Conference on Document Analysis and Recognition (ICDAR) 2011 on "The Four and a Half Challenges of Humanities Data"
