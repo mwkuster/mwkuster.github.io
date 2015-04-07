@@ -7,7 +7,7 @@ order: z
 lang: de
 ---
 
-Das deutsche Gesetz wünscht die Publikation eines Impressums nach § 5 TMG:
+Das deutsche Gesetz fordert die Publikation eines Impressums nach § 5 TMG:
 
 Marc Wilhelm Küster
 Sprengelweg 4
@@ -42,4 +42,4 @@ Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in d
 
 Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: http://tools.google.com/dlpage/gaoptout?hl=de.
 
-Quellen: [Datenschutzerklärung Google Analytics](http://www.google.com/intl/de_ALL/analytics/tos.html)
+Quellen: [Datenschutzerklärung Google Analytics](http://www.google.com/intl/de_ALL/analytics/)
