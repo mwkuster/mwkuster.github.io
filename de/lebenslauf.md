@@ -15,7 +15,7 @@ lang: de
 - 1997: Magister Artium in Literaturwissenschaft / Geschichte ebenfalls an der Universität Osnabrück
 - 1997-2001: Arbeit u. a. am Zentrum für Datenverarbeitung der Universität Tübingen in der Abteilung Literarische und Dokumentarische Datenverarbeitung 
 - 2001-2005: Mitgründer und einer der beiden Geschäftsführer des XML-Dienstleisters Saphor GmbH
-- Zeitgleich Promotion über die Tradition des alphabetischen Sortierens von der Keilschrift bis zur EDV ("Geordnetes Weltbild") an der Neuphilologischen Fakultät der Universität Tübingen 
+- Zeitgleich Promotion über die Tradition des alphabetischen Sortierens von der Keilschrift bis zur EDV (_Geordnetes Weltbild_) an der Neuphilologischen Fakultät der Universität Tübingen 
 - 2005: Berufung zum Professor für Web Services und XML-Technologien an die Fakultät für Informatik und Telekommunikation der FH Worms
 - 2008-2014: Beurlaubung für Projektarbeit im Office des Publications der Europäischen Union (Konzeption des Systems zur zentralen Daten- und Metadatenverwaltung u.a. für die europäische Gesetzgebung)
 - Seit 2014: Sektionsleiter am Office des Publications der Europäischen Union
