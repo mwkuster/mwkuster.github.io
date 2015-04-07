@@ -22,10 +22,10 @@ The result is a grammatological work with many insights into linguistics, semiot
 Related content:
 
 
-1. Geordnetes Weltbild:  <a href="http://www.degruyter.com/viewbooktoc/product/158657">Inhaltsverzeichnis</a>
-2. Bestellen Sie das Geordnete Weltbild im <a href="http://www.degruyter.com/view/product/158657">Online Shop von de Gruyter</a>
+1. Geordnetes Weltbild:  <a href="http://www.degruyter.com/viewbooktoc/product/158657">Table of contents</a>
+2. Order the _Geordnetes Weltbild_ in <a href="http://www.degruyter.com/view/product/158657">Online Shop von de Gruyter</a>
 
 Reviews available online:
 
-1. Rezension in <a href="http://zs.thulb.uni-jena.de/servlets/MCRFileNodeServlet/jportal_derivate_00115721/j08-h2-rez-1.pdf">Zeitschrift für Bibliothekswesen</a>, 55 (2008), 2
-3. Rezension in <a href="http://www.b-i-t-online.de/heft/2007-03-inh.htm">B. I. T. online</a>
+1. Review in <a href="http://zs.thulb.uni-jena.de/servlets/MCRFileNodeServlet/jportal_derivate_00115721/j08-h2-rez-1.pdf">Zeitschrift für Bibliothekswesen</a>, 55 (2008), 2
+3. Review in <a href="http://www.b-i-t-online.de/heft/2007-03-inh.htm">B. I. T. online</a>
