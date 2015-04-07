@@ -22,7 +22,7 @@ Die Kerngebiete meiner aktuellen Forschung sind Web Services, verteilte Systeme 
 - CEN/ISSS Workshops eGov-Share: Leitung von WP1 "Description of eGovernment Resources" und WP3 "Description of Cultural Elements"
 - Mitarbeit und Koordination im BMWi-geförderten Projekt "eGovernment-Standards" im Rahmen der BMWi-Maßnahme "Innovation und Normung"
 
-Die aktuelle Liste findet sich unter http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/research_projects
+Die aktuelle Liste findet sich unter [http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/research_projects](http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/research_projects)
 
 # Weitere Forschungsinteressen
 
