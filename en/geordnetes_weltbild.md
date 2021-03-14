@@ -21,9 +21,7 @@ The result is a grammatological work with many insights into linguistics, semiot
 
 Related content:
 
-
-1. Geordnetes Weltbild:  <a href="http://www.degruyter.com/viewbooktoc/product/158657">Table of contents</a>
-2. Order the _Geordnetes Weltbild_ in <a href="http://www.degruyter.com/view/product/158657">Online Shop von de Gruyter</a>
+1.  <a href="https://doi.org/10.1515/9783110911848">Page for _Geordnetes Weltbild_ at De Gruyter</a>
 
 Reviews available online:
 

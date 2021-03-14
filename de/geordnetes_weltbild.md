@@ -50,8 +50,8 @@ In den Konversationslexika des 19. und 20. Jahrhunderts wandelt sich das Model
 
 Weitere Informationen:
 
-1. Geordnetes Weltbild:  <a href="http://www.degruyter.com/viewbooktoc/product/158657">Inhaltsverzeichnis</a>
-2.  Bestellen Sie das _Geordnete Weltbild_ im <a href="http://www.degruyter.com/view/product/158657">Online Shop von de Gruyter</a>
+1. <a href="https://doi.org/10.1515/9783110911848">Seite des _Geordneten Weltbilds_ bei De Gruyter</a>
+
 
 Online verfügbare Rezensionen:
 
