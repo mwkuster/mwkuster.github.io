@@ -24,7 +24,7 @@ lang: en
 - Current research interests include:
   - In computer science:
     - Semantic Web, especially metadata registries, metadata modelling and handling
-    - Practical AI applicaitons
+    - Practical AI applications
     - XML technologies, especially XML data modelling and rendering of XML data
     - Application of information technology in the humanities (eHumanities / Digital Humanities)
   - In the humanities: writing and its theory (grammatology)
