@@ -13,7 +13,7 @@ Küster, Marc Wilhelm: Geordnetes Weltbild. Die Tradition des alphabetischen Sor
 
 ## Artikel
 
-Für die aktuelle Liste der publizierten Artikel verweise ich auf die Forschungsdatenbank des Landes Rheinland-Pfalz: [http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/publications/](http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/publications/)
+Für die Liste meiner publizierten Artikel bis 2011 verweise ich auf die Forschungsdatenbank des Landes Rheinland-Pfalz: [http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/publications/](http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/publications/)
 
 ## Studien und Roadmaps
 

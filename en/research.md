@@ -9,21 +9,18 @@ order: da
 lang: en
 ---
 
-Core topics of my current reserach are Web Services, distributed systems / digital ecosystems and XML-related technologies. This includes data modelling in XML, Grid technologies, digital ecosystems and XML-based eBusiness-/eGovernment standards.
+Core topics of my reserach were Web Services, distributed systems / digital ecosystems, Semantic Web, and XML-related technologies. This includes data modelling in XML, Grid technologies, digital ecosystems and XML-based eBusiness-/eGovernment standards.
 
-# Current reserarch projects
 
+# Completed research project
 - Direction of the Worms group in the Textgrid project on the devleopment of a community grid for text-based disciplines in the context of the BMBF-funded D-Grid initiative
 - In the TextGrid context direction of the DFG-funded project XML-Print
-
-# Complete research project
-
 - Administrative Nomenclature (ADNOM): Design of a distributed semantic-termonological framework for eGovernment applications
 - Projektleitung des Projektteams der CEN/ISSS eGovernment Focus Group sowie Mitarbeit bei der Projektumsetzung (gefördert durch die Europäische Union)
 - CEN/ISSS Workshops eGov-Share: Leitung von WP1 "Description of eGovernment Resources" und WP3 "Description of Cultural Elements"
 - Mitarbeit und Koordination im BMWi-geförderten Projekt "eGovernment-Standards" im Rahmen der BMWi-Maßnahme "Innovation und Normung
 
-You can find the current list of research projects under [http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/research_projects](http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/research_projects)
+You can find the list of my research projects under [http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/research_projects](http://www.rlp-forschung.de/public/people/Marc_Wilhelm_Kuester/research_projects)
 
 # Further research interests
 

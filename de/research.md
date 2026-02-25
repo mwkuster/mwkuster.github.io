@@ -8,15 +8,11 @@ lang: de
 ---
 
 
-Die Kerngebiete meiner aktuellen Forschung sind Web Services, verteilte Systeme und XML-bezogene Technologien. Das schließt Datenmodellierung in XML, Grid-Technologien und XML-basierte eBusiness-/eGovernment-Standards ein.
-
-# Aktuelle Forschungsprojekte
-
-- Leitung der Wormser Arbeitsgruppe im Rahmen des Textgrid-Projekts zur Entwicklung eines Community-Grid für textbasiert arbeitende Disziplinen im Kontext der BMBF-geförderten D-Grid-Initiative
-- Im TextGrid-Kontext Leitung des DFG-geförderten Projekts XML-Print
+Die Kerngebiete meiner aktuellen Forschung waren Web Services, verteilte Systeme, Semantische Technologien und XML-bezogene Technologien. Das schließt Datenmodellierung in XML, Grid-Technologien und XML-basierte eBusiness-/eGovernment-Standards ein.
 
 # Abgeschlossene Forschungsprojekte
-
+- Leitung der Wormser Arbeitsgruppe im Rahmen des Textgrid-Projekts zur Entwicklung eines Community-Grid für textbasiert arbeitende Disziplinen im Kontext der BMBF-geförderten D-Grid-Initiative
+- Im TextGrid-Kontext Leitung des DFG-geförderten Projekts XML-Print
 - ADNOM: Weiterer Ausbau eines semantisch-terminologischen Frameworks für eGovernment-Anwendungen
 - Projektleitung des Projektteams der CEN/ISSS eGovernment Focus Group sowie Mitarbeit bei der Projektumsetzung (gefördert durch die Europäische Union)
 - CEN/ISSS Workshops eGov-Share: Leitung von WP1 "Description of eGovernment Resources" und WP3 "Description of Cultural Elements"
