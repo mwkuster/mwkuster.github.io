@@ -10,6 +10,6 @@ lang: en
 ---
 
 <div style="height:350pt;">
-<img src="/img/homepage_startseite_en.jpg" width="650px" alt="Welcome!">
+<img src="/img/budabe_homepage.png" width="650px" alt="Welcome!">
 </div>
     
