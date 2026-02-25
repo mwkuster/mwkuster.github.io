@@ -9,8 +9,6 @@ order: b
 lang: en
 ---
 
-# <img src="/img/Marc_Wilhelm_Kuester.jpg" alt="Photo Marc Wilhelm Küster" style="float:right"/>
-
 - Born in 1970 in Minden / Westphalia / Germany
 - 1994: Diplom thesis in physics on gas-surface-interactions at the University Osnabrück
 - 1997: Master in philology and history on the French literary journal Divan at the University Osnabrück
