@@ -10,11 +10,11 @@ lang: de
 
 Diese Website ist eine persönliche, nicht-kommerzielle Website zur Darstellung meines Lebenslaufs, meiner Publikationen sowie früherer Forschungsaktivitäten. Über diese Website werden keine Dienstleistungen oder Produkte angeboten oder verkauft. Es werden keine Werbung, kein Tracking/Analytics, keine Newsletter und keine Kontaktformulare eingesetzt.
 
-Herausgeber / Verantwortlicher
-Name: Marc Wilhelm Küster
+Herausgeber / Verantwortlicher:
+Name: Marc Wilhelm Küster,
 E-Mail: marc ATSIGN budabe DOT eu
 
-Hosting-Anbieter
+Hosting-Anbieter:
 Anbieter: https://github.com
 
 Urheberrecht
